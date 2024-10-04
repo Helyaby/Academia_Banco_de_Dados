@@ -235,3 +235,18 @@ footer {
 .plan button:hover {
     background-color: #ff4500;
 }
+
+
+.nav-links li:nth-child(2) a {
+    background-color: #ff6347; 
+    color: #fff; 
+    padding: 10px 15px; 
+    border-radius: 5px; 
+    font-weight: bold; 
+    transition: background-color 0.3s ease; 
+}
+
+.nav-links li:nth-child(2) a:hover {
+    background-color: #ff4500; 
+}
+
